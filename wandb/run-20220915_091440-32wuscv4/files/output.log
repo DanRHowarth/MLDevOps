@@ -1,0 +1,148 @@
+<xml><var name="In" type="list" qualifier="builtins" value="%5B%27%27%2C %27import wandb%27%2C %27with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%5Cn    fp.write%28%22This is an example of an artifact%22%29%27%2C %22get_ipython%28%29.system%28%27ls%27%29%22%2C %27run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29%27%5D" isContainer="True" shape="5" isIPythonHidden="True" />
+<var name="Out" type="dict" qualifier="builtins" value="%7B%7D" isContainer="True" shape="0" isIPythonHidden="True" />
+<var name="_" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="__" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="___" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="__builtin__" type="module" qualifier="builtins" value="%3Cmodule %27builtins%27 %28built-in%29&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__builtins__" type="module" qualifier="builtins" value="%3Cmodule %27builtins%27 %28built-in%29&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__doc__" type="str" qualifier="builtins" value="Automatically created module for IPython interactive environment" isIPythonHidden="True" />
+<var name="__loader__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="__name__" type="str" qualifier="builtins" value="__main__" isIPythonHidden="True" />
+<var name="__package__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="__spec__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="_dh" type="list" qualifier="builtins" value="%5BPosixPath%28%27/Users/drh/Documents/Repos/MLDevOps%27%29%5D" isContainer="True" shape="1" isIPythonHidden="True" />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="_i" type="str" qualifier="builtins" value="%21ls" isIPythonHidden="True" />
+<var name="_i1" type="str" qualifier="builtins" value="import wandb" isIPythonHidden="True" />
+<var name="_i2" type="str" qualifier="builtins" value="with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%0A    fp.write%28%22This is an example of an artifact%22%29" isIPythonHidden="True" />
+<var name="_i3" type="str" qualifier="builtins" value="%21ls" isIPythonHidden="True" />
+<var name="_i4" type="str" qualifier="builtins" value="run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29" isIPythonHidden="True" />
+<var name="_ih" type="list" qualifier="builtins" value="%5B%27%27%2C %27import wandb%27%2C %27with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%5Cn    fp.write%28%22This is an example of an artifact%22%29%27%2C %22get_ipython%28%29.system%28%27ls%27%29%22%2C %27run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29%27%5D" isContainer="True" shape="5" isIPythonHidden="True" />
+<var name="_ii" type="str" qualifier="builtins" value="with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%0A    fp.write%28%22This is an example of an artifact%22%29" isIPythonHidden="True" />
+<var name="_iii" type="str" qualifier="builtins" value="import wandb" isIPythonHidden="True" />
+<var name="_oh" type="dict" qualifier="builtins" value="%7B%7D" isContainer="True" shape="0" isIPythonHidden="True" />
+<var name="_pydevd_bundle" type="module" qualifier="builtins" value="%3Cmodule %27_pydevd_bundle%27 from %27/Users/drh/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/221.5921.27/PyCharm.app/Contents/plugins/python/helpers/pydev/_pydevd_bundle/__init__.py%27&gt;" isContainer="True" />
+<var name="exit" type="ZMQExitAutocall" qualifier="IPython.core.autocall" value="%3CIPython.core.autocall.ZMQExitAutocall object at 0x7f80d2782a00&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="fp" type="TextIOWrapper" qualifier="_io" value="%3C_io.TextIOWrapper name=%27my_artifact.txt%27 mode=%27w%2B%27 encoding=%27UTF-8%27&gt;" isContainer="True" />
+<var name="get_ipython" type="method" qualifier="builtins" value="%3Cbound method InteractiveShell.get_ipython of %3Cipykernel.zmqshell.ZMQInteractiveShell object at 0x7f80d27820a0&gt;&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="pydev_jupyter_vars" type="module" qualifier="builtins" value="%3Cmodule %27pydev_jupyter_vars%27 from %27/Users/drh/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/221.5921.27/PyCharm.app/Contents/plugins/python/helpers-pro/jupyter_debug/pydev_jupyter_vars.py%27&gt;" isContainer="True" />
+<var name="quit" type="ZMQExitAutocall" qualifier="IPython.core.autocall" value="%3CIPython.core.autocall.ZMQExitAutocall object at 0x7f80d2782a00&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="remove_imported_pydev_package" type="function" qualifier="builtins" value="%3Cfunction remove_imported_pydev_package at 0x7f80d2a3a700&gt;" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7f80d4c67640&gt;" isContainer="True" />
+<var name="sys" type="module" qualifier="builtins" value="%3Cmodule %27sys%27 %28built-in%29&gt;" isContainer="True" />
+<var name="wandb" type="module" qualifier="builtins" value="%3Cmodule %27wandb%27 from %27/Users/drh/opt/anaconda3/envs/mldevops/lib/python3.8/site-packages/wandb/__init__.py%27&gt;" isContainer="True" />
+</xml>
+<xml><var name="In" type="list" qualifier="builtins" value="%5B%27%27%2C %27import wandb%27%2C %27with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%5Cn    fp.write%28%22This is an example of an artifact%22%29%27%2C %22get_ipython%28%29.system%28%27ls%27%29%22%2C %27run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29%27%2C %27artifact = wandb.Artifact%28%5Cn    name=%22my_artifact.txt%22%2C %5Cn    type=%22data%22%2C %5Cn    description=%22This is an example of an artifact%22%2C%5Cn    metadata=%7B%5Cn        %22key_1%22%3A %22value_1%22%5Cn    %7D%5Cn%29%27%5D" isContainer="True" shape="6" isIPythonHidden="True" />
+<var name="Out" type="dict" qualifier="builtins" value="%7B%7D" isContainer="True" shape="0" isIPythonHidden="True" />
+<var name="_" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="__" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="___" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="__builtin__" type="module" qualifier="builtins" value="%3Cmodule %27builtins%27 %28built-in%29&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__builtins__" type="module" qualifier="builtins" value="%3Cmodule %27builtins%27 %28built-in%29&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__doc__" type="str" qualifier="builtins" value="Automatically created module for IPython interactive environment" isIPythonHidden="True" />
+<var name="__loader__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="__name__" type="str" qualifier="builtins" value="__main__" isIPythonHidden="True" />
+<var name="__package__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="__spec__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="_dh" type="list" qualifier="builtins" value="%5BPosixPath%28%27/Users/drh/Documents/Repos/MLDevOps%27%29%5D" isContainer="True" shape="1" isIPythonHidden="True" />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="_i" type="str" qualifier="builtins" value="run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29" isIPythonHidden="True" />
+<var name="_i1" type="str" qualifier="builtins" value="import wandb" isIPythonHidden="True" />
+<var name="_i2" type="str" qualifier="builtins" value="with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%0A    fp.write%28%22This is an example of an artifact%22%29" isIPythonHidden="True" />
+<var name="_i3" type="str" qualifier="builtins" value="%21ls" isIPythonHidden="True" />
+<var name="_i4" type="str" qualifier="builtins" value="run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29" isIPythonHidden="True" />
+<var name="_i5" type="str" qualifier="builtins" value="artifact = wandb.Artifact%28%0A    name=%22my_artifact.txt%22%2C %0A    type=%22data%22%2C %0A    description=%22This is an example of an artifact%22%2C%0A    metadata=%7B%0A        %22key_1%22%3A %22value_1%22%0A    %7D%0A%29" isIPythonHidden="True" />
+<var name="_ih" type="list" qualifier="builtins" value="%5B%27%27%2C %27import wandb%27%2C %27with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%5Cn    fp.write%28%22This is an example of an artifact%22%29%27%2C %22get_ipython%28%29.system%28%27ls%27%29%22%2C %27run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29%27%2C %27artifact = wandb.Artifact%28%5Cn    name=%22my_artifact.txt%22%2C %5Cn    type=%22data%22%2C %5Cn    description=%22This is an example of an artifact%22%2C%5Cn    metadata=%7B%5Cn        %22key_1%22%3A %22value_1%22%5Cn    %7D%5Cn%29%27%5D" isContainer="True" shape="6" isIPythonHidden="True" />
+<var name="_ii" type="str" qualifier="builtins" value="%21ls" isIPythonHidden="True" />
+<var name="_iii" type="str" qualifier="builtins" value="with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%0A    fp.write%28%22This is an example of an artifact%22%29" isIPythonHidden="True" />
+<var name="_oh" type="dict" qualifier="builtins" value="%7B%7D" isContainer="True" shape="0" isIPythonHidden="True" />
+<var name="_pydevd_bundle" type="module" qualifier="builtins" value="%3Cmodule %27_pydevd_bundle%27 from %27/Users/drh/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/221.5921.27/PyCharm.app/Contents/plugins/python/helpers/pydev/_pydevd_bundle/__init__.py%27&gt;" isContainer="True" />
+<var name="artifact" type="Artifact" qualifier="wandb.sdk.wandb_artifacts" value="%3Cwandb.sdk.wandb_artifacts.Artifact object at 0x7f80d4fabfa0&gt;" isContainer="True" />
+<var name="exit" type="ZMQExitAutocall" qualifier="IPython.core.autocall" value="%3CIPython.core.autocall.ZMQExitAutocall object at 0x7f80d2782a00&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="fp" type="TextIOWrapper" qualifier="_io" value="%3C_io.TextIOWrapper name=%27my_artifact.txt%27 mode=%27w%2B%27 encoding=%27UTF-8%27&gt;" isContainer="True" />
+<var name="get_ipython" type="method" qualifier="builtins" value="%3Cbound method InteractiveShell.get_ipython of %3Cipykernel.zmqshell.ZMQInteractiveShell object at 0x7f80d27820a0&gt;&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="pydev_jupyter_vars" type="module" qualifier="builtins" value="%3Cmodule %27pydev_jupyter_vars%27 from %27/Users/drh/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/221.5921.27/PyCharm.app/Contents/plugins/python/helpers-pro/jupyter_debug/pydev_jupyter_vars.py%27&gt;" isContainer="True" />
+<var name="quit" type="ZMQExitAutocall" qualifier="IPython.core.autocall" value="%3CIPython.core.autocall.ZMQExitAutocall object at 0x7f80d2782a00&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="remove_imported_pydev_package" type="function" qualifier="builtins" value="%3Cfunction remove_imported_pydev_package at 0x7f80d2a3a700&gt;" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7f80d4c67640&gt;" isContainer="True" />
+<var name="sys" type="module" qualifier="builtins" value="%3Cmodule %27sys%27 %28built-in%29&gt;" isContainer="True" />
+<var name="wandb" type="module" qualifier="builtins" value="%3Cmodule %27wandb%27 from %27/Users/drh/opt/anaconda3/envs/mldevops/lib/python3.8/site-packages/wandb/__init__.py%27&gt;" isContainer="True" />
+</xml>
+<xml><var name="In" type="list" qualifier="builtins" value="%5B%27%27%2C %27import wandb%27%2C %27with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%5Cn    fp.write%28%22This is an example of an artifact%22%29%27%2C %22get_ipython%28%29.system%28%27ls%27%29%22%2C %27run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29%27%2C %27artifact = wandb.Artifact%28%5Cn    name=%22my_artifact.txt%22%2C %5Cn    type=%22data%22%2C %5Cn    description=%22This is an example of an artifact%22%2C%5Cn    metadata=%7B%5Cn        %22key_1%22%3A %22value_1%22%5Cn    %7D%5Cn%29%27%2C %27artifact.add_file%28%22my_artifact.txt%22%29%27%5D" isContainer="True" shape="7" isIPythonHidden="True" />
+<var name="Out" type="dict" qualifier="builtins" value="%7B6%3A %3CManifestEntry digest%3A bStOq42zZ7Ka3e5ArNjTIg==&gt;%7D" isContainer="True" shape="1" isIPythonHidden="True" />
+<var name="_" type="ArtifactManifestEntry" qualifier="wandb.sdk.wandb_artifacts" value="%3CManifestEntry digest%3A bStOq42zZ7Ka3e5ArNjTIg==&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="_6" type="ArtifactManifestEntry" qualifier="wandb.sdk.wandb_artifacts" value="%3CManifestEntry digest%3A bStOq42zZ7Ka3e5ArNjTIg==&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="___" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="__builtin__" type="module" qualifier="builtins" value="%3Cmodule %27builtins%27 %28built-in%29&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__builtins__" type="module" qualifier="builtins" value="%3Cmodule %27builtins%27 %28built-in%29&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__doc__" type="str" qualifier="builtins" value="Automatically created module for IPython interactive environment" isIPythonHidden="True" />
+<var name="__loader__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="__name__" type="str" qualifier="builtins" value="__main__" isIPythonHidden="True" />
+<var name="__package__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="__spec__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="_dh" type="list" qualifier="builtins" value="%5BPosixPath%28%27/Users/drh/Documents/Repos/MLDevOps%27%29%5D" isContainer="True" shape="1" isIPythonHidden="True" />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="_i" type="str" qualifier="builtins" value="artifact = wandb.Artifact%28%0A    name=%22my_artifact.txt%22%2C %0A    type=%22data%22%2C %0A    description=%22This is an example of an artifact%22%2C%0A    metadata=%7B%0A        %22key_1%22%3A %22value_1%22%0A    %7D%0A%29" isIPythonHidden="True" />
+<var name="_i1" type="str" qualifier="builtins" value="import wandb" isIPythonHidden="True" />
+<var name="_i2" type="str" qualifier="builtins" value="with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%0A    fp.write%28%22This is an example of an artifact%22%29" isIPythonHidden="True" />
+<var name="_i3" type="str" qualifier="builtins" value="%21ls" isIPythonHidden="True" />
+<var name="_i4" type="str" qualifier="builtins" value="run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29" isIPythonHidden="True" />
+<var name="_i5" type="str" qualifier="builtins" value="artifact = wandb.Artifact%28%0A    name=%22my_artifact.txt%22%2C %0A    type=%22data%22%2C %0A    description=%22This is an example of an artifact%22%2C%0A    metadata=%7B%0A        %22key_1%22%3A %22value_1%22%0A    %7D%0A%29" isIPythonHidden="True" />
+<var name="_i6" type="str" qualifier="builtins" value="artifact.add_file%28%22my_artifact.txt%22%29" isIPythonHidden="True" />
+<var name="_ih" type="list" qualifier="builtins" value="%5B%27%27%2C %27import wandb%27%2C %27with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%5Cn    fp.write%28%22This is an example of an artifact%22%29%27%2C %22get_ipython%28%29.system%28%27ls%27%29%22%2C %27run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29%27%2C %27artifact = wandb.Artifact%28%5Cn    name=%22my_artifact.txt%22%2C %5Cn    type=%22data%22%2C %5Cn    description=%22This is an example of an artifact%22%2C%5Cn    metadata=%7B%5Cn        %22key_1%22%3A %22value_1%22%5Cn    %7D%5Cn%29%27%2C %27artifact.add_file%28%22my_artifact.txt%22%29%27%5D" isContainer="True" shape="7" isIPythonHidden="True" />
+<var name="_ii" type="str" qualifier="builtins" value="run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29" isIPythonHidden="True" />
+<var name="_iii" type="str" qualifier="builtins" value="%21ls" isIPythonHidden="True" />
+<var name="_oh" type="dict" qualifier="builtins" value="%7B6%3A %3CManifestEntry digest%3A bStOq42zZ7Ka3e5ArNjTIg==&gt;%7D" isContainer="True" shape="1" isIPythonHidden="True" />
+<var name="_pydevd_bundle" type="module" qualifier="builtins" value="%3Cmodule %27_pydevd_bundle%27 from %27/Users/drh/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/221.5921.27/PyCharm.app/Contents/plugins/python/helpers/pydev/_pydevd_bundle/__init__.py%27&gt;" isContainer="True" />
+<var name="artifact" type="Artifact" qualifier="wandb.sdk.wandb_artifacts" value="%3Cwandb.sdk.wandb_artifacts.Artifact object at 0x7f80d4fabfa0&gt;" isContainer="True" />
+<var name="exit" type="ZMQExitAutocall" qualifier="IPython.core.autocall" value="%3CIPython.core.autocall.ZMQExitAutocall object at 0x7f80d2782a00&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="fp" type="TextIOWrapper" qualifier="_io" value="%3C_io.TextIOWrapper name=%27my_artifact.txt%27 mode=%27w%2B%27 encoding=%27UTF-8%27&gt;" isContainer="True" />
+<var name="get_ipython" type="method" qualifier="builtins" value="%3Cbound method InteractiveShell.get_ipython of %3Cipykernel.zmqshell.ZMQInteractiveShell object at 0x7f80d27820a0&gt;&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="pydev_jupyter_vars" type="module" qualifier="builtins" value="%3Cmodule %27pydev_jupyter_vars%27 from %27/Users/drh/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/221.5921.27/PyCharm.app/Contents/plugins/python/helpers-pro/jupyter_debug/pydev_jupyter_vars.py%27&gt;" isContainer="True" />
+<var name="quit" type="ZMQExitAutocall" qualifier="IPython.core.autocall" value="%3CIPython.core.autocall.ZMQExitAutocall object at 0x7f80d2782a00&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="remove_imported_pydev_package" type="function" qualifier="builtins" value="%3Cfunction remove_imported_pydev_package at 0x7f80d2a3a700&gt;" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7f80d4c67640&gt;" isContainer="True" />
+<var name="sys" type="module" qualifier="builtins" value="%3Cmodule %27sys%27 %28built-in%29&gt;" isContainer="True" />
+<var name="wandb" type="module" qualifier="builtins" value="%3Cmodule %27wandb%27 from %27/Users/drh/opt/anaconda3/envs/mldevops/lib/python3.8/site-packages/wandb/__init__.py%27&gt;" isContainer="True" />
+</xml>
+<xml><var name="In" type="list" qualifier="builtins" value="%5B%27%27%2C %27import wandb%27%2C %27with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%5Cn    fp.write%28%22This is an example of an artifact%22%29%27%2C %22get_ipython%28%29.system%28%27ls%27%29%22%2C %27run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29%27%2C %27artifact = wandb.Artifact%28%5Cn    name=%22my_artifact.txt%22%2C %5Cn    type=%22data%22%2C %5Cn    description=%22This is an example of an artifact%22%2C%5Cn    metadata=%7B%5Cn        %22key_1%22%3A %22value_1%22%5Cn    %7D%5Cn%29%27%2C %27artifact.add_file%28%22my_artifact.txt%22%29%27%2C %27run.log_artifact%28artifact%29%27%5D" isContainer="True" shape="8" isIPythonHidden="True" />
+<var name="Out" type="dict" qualifier="builtins" value="%7B6%3A %3CManifestEntry digest%3A bStOq42zZ7Ka3e5ArNjTIg==&gt;%2C 7%3A %3Cwandb.sdk.wandb_artifacts.Artifact object at 0x7f80d4fabfa0&gt;%7D" isContainer="True" shape="2" isIPythonHidden="True" />
+<var name="_" type="Artifact" qualifier="wandb.sdk.wandb_artifacts" value="%3Cwandb.sdk.wandb_artifacts.Artifact object at 0x7f80d4fabfa0&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="_6" type="ArtifactManifestEntry" qualifier="wandb.sdk.wandb_artifacts" value="%3CManifestEntry digest%3A bStOq42zZ7Ka3e5ArNjTIg==&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="_7" type="Artifact" qualifier="wandb.sdk.wandb_artifacts" value="%3Cwandb.sdk.wandb_artifacts.Artifact object at 0x7f80d4fabfa0&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__" type="ArtifactManifestEntry" qualifier="wandb.sdk.wandb_artifacts" value="%3CManifestEntry digest%3A bStOq42zZ7Ka3e5ArNjTIg==&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="___" type="str" qualifier="builtins" value="" isIPythonHidden="True" />
+<var name="__builtin__" type="module" qualifier="builtins" value="%3Cmodule %27builtins%27 %28built-in%29&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__builtins__" type="module" qualifier="builtins" value="%3Cmodule %27builtins%27 %28built-in%29&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="__doc__" type="str" qualifier="builtins" value="Automatically created module for IPython interactive environment" isIPythonHidden="True" />
+<var name="__loader__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="__name__" type="str" qualifier="builtins" value="__main__" isIPythonHidden="True" />
+<var name="__package__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="__spec__" type="NoneType" qualifier="builtins" value="None" isIPythonHidden="True" />
+<var name="_dh" type="list" qualifier="builtins" value="%5BPosixPath%28%27/Users/drh/Documents/Repos/MLDevOps%27%29%5D" isContainer="True" shape="1" isIPythonHidden="True" />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="_i" type="str" qualifier="builtins" value="artifact.add_file%28%22my_artifact.txt%22%29" isIPythonHidden="True" />
+<var name="_i1" type="str" qualifier="builtins" value="import wandb" isIPythonHidden="True" />
+<var name="_i2" type="str" qualifier="builtins" value="with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%0A    fp.write%28%22This is an example of an artifact%22%29" isIPythonHidden="True" />
+<var name="_i3" type="str" qualifier="builtins" value="%21ls" isIPythonHidden="True" />
+<var name="_i4" type="str" qualifier="builtins" value="run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29" isIPythonHidden="True" />
+<var name="_i5" type="str" qualifier="builtins" value="artifact = wandb.Artifact%28%0A    name=%22my_artifact.txt%22%2C %0A    type=%22data%22%2C %0A    description=%22This is an example of an artifact%22%2C%0A    metadata=%7B%0A        %22key_1%22%3A %22value_1%22%0A    %7D%0A%29" isIPythonHidden="True" />
+<var name="_i6" type="str" qualifier="builtins" value="artifact.add_file%28%22my_artifact.txt%22%29" isIPythonHidden="True" />
+<var name="_i7" type="str" qualifier="builtins" value="run.log_artifact%28artifact%29" isIPythonHidden="True" />
+<var name="_ih" type="list" qualifier="builtins" value="%5B%27%27%2C %27import wandb%27%2C %27with open%28%22my_artifact.txt%22%2C %22w%2B%22%29 as fp%3A%5Cn    fp.write%28%22This is an example of an artifact%22%29%27%2C %22get_ipython%28%29.system%28%27ls%27%29%22%2C %27run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29%27%2C %27artifact = wandb.Artifact%28%5Cn    name=%22my_artifact.txt%22%2C %5Cn    type=%22data%22%2C %5Cn    description=%22This is an example of an artifact%22%2C%5Cn    metadata=%7B%5Cn        %22key_1%22%3A %22value_1%22%5Cn    %7D%5Cn%29%27%2C %27artifact.add_file%28%22my_artifact.txt%22%29%27%2C %27run.log_artifact%28artifact%29%27%5D" isContainer="True" shape="8" isIPythonHidden="True" />
+<var name="_ii" type="str" qualifier="builtins" value="artifact = wandb.Artifact%28%0A    name=%22my_artifact.txt%22%2C %0A    type=%22data%22%2C %0A    description=%22This is an example of an artifact%22%2C%0A    metadata=%7B%0A        %22key_1%22%3A %22value_1%22%0A    %7D%0A%29" isIPythonHidden="True" />
+<var name="_iii" type="str" qualifier="builtins" value="run = wandb.init%28project=%22demo_artifact_1%22%2C group=%22experiment_1%22%29" isIPythonHidden="True" />
+<var name="_oh" type="dict" qualifier="builtins" value="%7B6%3A %3CManifestEntry digest%3A bStOq42zZ7Ka3e5ArNjTIg==&gt;%2C 7%3A %3Cwandb.sdk.wandb_artifacts.Artifact object at 0x7f80d4fabfa0&gt;%7D" isContainer="True" shape="2" isIPythonHidden="True" />
+<var name="_pydevd_bundle" type="module" qualifier="builtins" value="%3Cmodule %27_pydevd_bundle%27 from %27/Users/drh/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/221.5921.27/PyCharm.app/Contents/plugins/python/helpers/pydev/_pydevd_bundle/__init__.py%27&gt;" isContainer="True" />
+<var name="artifact" type="Artifact" qualifier="wandb.sdk.wandb_artifacts" value="%3Cwandb.sdk.wandb_artifacts.Artifact object at 0x7f80d4fabfa0&gt;" isContainer="True" />
+<var name="exit" type="ZMQExitAutocall" qualifier="IPython.core.autocall" value="%3CIPython.core.autocall.ZMQExitAutocall object at 0x7f80d2782a00&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="fp" type="TextIOWrapper" qualifier="_io" value="%3C_io.TextIOWrapper name=%27my_artifact.txt%27 mode=%27w%2B%27 encoding=%27UTF-8%27&gt;" isContainer="True" />
+<var name="get_ipython" type="method" qualifier="builtins" value="%3Cbound method InteractiveShell.get_ipython of %3Cipykernel.zmqshell.ZMQInteractiveShell object at 0x7f80d27820a0&gt;&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="pydev_jupyter_vars" type="module" qualifier="builtins" value="%3Cmodule %27pydev_jupyter_vars%27 from %27/Users/drh/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/221.5921.27/PyCharm.app/Contents/plugins/python/helpers-pro/jupyter_debug/pydev_jupyter_vars.py%27&gt;" isContainer="True" />
+<var name="quit" type="ZMQExitAutocall" qualifier="IPython.core.autocall" value="%3CIPython.core.autocall.ZMQExitAutocall object at 0x7f80d2782a00&gt;" isContainer="True" isIPythonHidden="True" />
+<var name="remove_imported_pydev_package" type="function" qualifier="builtins" value="%3Cfunction remove_imported_pydev_package at 0x7f80d2a3a700&gt;" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7f80d4c67640&gt;" isContainer="True" />
+<var name="sys" type="module" qualifier="builtins" value="%3Cmodule %27sys%27 %28built-in%29&gt;" isContainer="True" />
+<var name="wandb" type="module" qualifier="builtins" value="%3Cmodule %27wandb%27 from %27/Users/drh/opt/anaconda3/envs/mldevops/lib/python3.8/site-packages/wandb/__init__.py%27&gt;" isContainer="True" />
+</xml>

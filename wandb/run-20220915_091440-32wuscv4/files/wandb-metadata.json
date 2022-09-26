@@ -1,0 +1,16 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-09-15T08:14:42.020909",
+    "startedAt": "2022-09-15T08:14:40.806009",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "upload-and-version-artifacts.ipynb",
+    "root": "/Users/drh/Documents/Repos/MLDevOps",
+    "host": "Daniels-MBP.lan",
+    "username": "drh",
+    "executable": "/Users/drh/opt/anaconda3/envs/mldevops/bin/python"
+}
