@@ -213,3 +213,4 @@
 2022-09-15 09:18:09,447 INFO    SenderThread:59905 [sender.py:finish():1312] shutting down sender
 2022-09-15 09:18:09,447 INFO    SenderThread:59905 [file_pusher.py:finish():171] shutting down file pusher
 2022-09-15 09:18:09,447 INFO    SenderThread:59905 [file_pusher.py:join():176] waiting for file pusher
+2022-09-27 09:59:58,405 INFO    MainThread:59905 [internal.py:handle_exit():80] Internal process exited
